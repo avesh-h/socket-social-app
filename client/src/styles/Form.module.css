@@ -1,0 +1,15 @@
+.inputLabel {
+  width: 120px;
+}
+.card {
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  box-shadow: 0px 1px 9px #00000078;
+}
+.cardBox {
+  width: fit-content;
+  border: 2px solid #fff;
+  box-shadow: 2px 2px 2px #fff;
+  padding: 10px;
+}
